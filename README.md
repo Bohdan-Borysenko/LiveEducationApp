@@ -31,7 +31,7 @@ Interactive educational application with authorization, course system and adapti
 ## 📂 Project Structure
 
 Translated with DeepL.com (free version)
-
+```
 LiveEducationApp/
 ├── AppDelegate.swift
 ├── LiveEducationAppApp.swift
@@ -53,7 +53,7 @@ LiveEducationApp/
 │   └── Картинки, иконки, шрифты
 ├── Firebase/
 │   └── GoogleService-Info.plist
-
+```
 
 ## 🛠 Installation✅ Current functionality
 - Firebase authorization and state saving
@@ -66,6 +66,13 @@ LiveEducationApp/
 - Preview for all screens
 
 📸 Preview
+Firebase
+<img width="926" alt="Снимок экрана 2025-04-16 в 22 13 22" src="https://github.com/user-attachments/assets/1c4d9734-ccc1-4de6-95a5-a770bb44457f" />
+GiF
+![1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a2267b0e-58a4-4bfe-8f85-c914ca2ad99f)
 
 
-📬 Feedback
+## 🧑‍💻 Author
+
+Bohdan Borysenko
+[LinkedIn →](https://www.linkedin.com/in/bohdan-borysenko-11a104246/)  
